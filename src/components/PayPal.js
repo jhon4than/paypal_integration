@@ -11,7 +11,7 @@ export default function Paypal() {
             intent: "CAPTURE",
             purchase_units: [
               {
-                description: "Cool looking table",
+                description: "Apple iPhone 14 Pro Max (256 GB) – Roxo-profundo",
                 amount: {
                   currency_code: "BRL",
                   value: 650.0,
